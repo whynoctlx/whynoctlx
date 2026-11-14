@@ -1,6 +1,4 @@
-# ctl
-
-*Independent developer · [ctlx.app](https://ctlx.app)*
+*Independent developer · [ctlx.app](https://ctlx.app/)*
 
 Building software is easier than maintaining a functioning brain.
 
