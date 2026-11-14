@@ -1,25 +1,36 @@
 <div align="center">
 
-# ctl
+<h1>ctl</h1>
 
-**Independent developer · [ctlx.app](https://ctlx.app)**
+<p>
+  <a href="https://ctlx.app">ctlx.app</a>
+  &nbsp;·&nbsp; Independent developer
+</p>
 
-*Building things. Overthinking everything.*
+<p><i>Building things. Overthinking everything.</i></p>
 
 </div>
 
 <br />
 
-### Projects
+## Projects
 
 <table>
 <tr>
-<td width="50%">
+<td>
+<strong>01</strong>
+</td>
+<td>
 <strong>Lowkey</strong><br />
 <sub>Something worth keeping lowkey.</sub>
 </td>
-<td width="50%">
-<strong>Zarobenqo</strong> <sup>Private</sup><br />
+</tr>
+<tr>
+<td>
+<strong>02</strong>
+</td>
+<td>
+<strong>Zarobenqo</strong> <sub>Private</sub><br />
 <sub>Making money. Allegedly.</sub>
 </td>
 </tr>
@@ -28,5 +39,6 @@
 <br />
 
 <div align="center">
-<sub>Works on my machine. My brain has different deployment requirements.</sub>
+<sub>Designed in my head. Shipped eventually.</sub>
 </div>
+```
