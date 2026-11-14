@@ -1,32 +1,38 @@
 
 <div align="center">
-
-# ctl
-
-<sub>Independent developer · <a href="https://ctlx.app">ctlx.app</a></sub>
-
-*Building software, obsessing over details.*
-
-<sub>Held together by code and citalopram.</sub>
-
-<br /><br />
-
-**Lowkey**
-
-<sub>Spotify, quieter. A lightweight, native desktop player built around user experience.</sub>
-
-<sub>`Tauri` · `Rust` · `Svelte`</sub>
+  <p><strong>ctl</strong></p>
+  <p>
+    <a href="https://ctlx.app">ctlx.app</a>
+    &nbsp;·&nbsp; Independent developer
+  </p>
+  <p><i>Building software. Obsessing over details.</i></p>
+  <p><sub>Held together by code and citalopram.</sub></p>
+</div>
 
 <br />
 
-**Zarobenqo**
+<p><strong>01 / Lowkey</strong></p>
 
-<sub>The original courier app, rebuilt. Same APIs, entirely new interface, with earnings tracking.</sub>
+<p>
+  Spotify, quieter. A lightweight, native desktop player
+  built around user experience.
+</p>
 
-<sub>`Next.js` · `Turso` · `Drizzle`</sub>
+<p><sub>TAURI &nbsp;·&nbsp; RUST &nbsp;·&nbsp; SVELTE</sub></p>
 
-<br /><br />
+<br />
 
-<sub>Mostly functional. Medically assisted.</sub>
+<p><strong>02 / Zarobenqo</strong></p>
 
+<p>
+  The original courier app, rebuilt. Same APIs underneath,
+  a new interface throughout, and earnings added.
+</p>
+
+<p><sub>NEXT.JS &nbsp;·&nbsp; TURSO &nbsp;·&nbsp; DRIZZLE</sub></p>
+
+<br />
+
+<div align="center">
+  <sub>Mostly functional. Medically assisted.</sub>
 </div>
