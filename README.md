@@ -3,39 +3,24 @@
 
 # ctl
 
-<sub>Independent developer · [ctlx.app](https://ctlx.app)</sub>
+<sub>Independent developer · <a href="https://ctlx.app">ctlx.app</a></sub>
 
-<br />
-
-*Perfectionism is a feature. Stability is a work in progress.*
-
-<br />
+*Building software, obsessing over details.*
 
 <sub>Held together by code and citalopram.</sub>
 
-</div>
-
-### Things I've built
+<br /><br />
 
 **Lowkey**  
-<sub>DESKTOP APP · MUSIC</sub>
-
-Spotify, quieter.
-
-A lightweight, native desktop player built around user experience. Less noise, more music.
+<sub>Spotify, quieter. A lightweight, native desktop player built around user experience.</sub>
 
 <br />
 
 **Zarobenqo**  
-<sub>COURIER PLATFORM · PRIVATE</sub>
+<sub>The original courier app, rebuilt. Same APIs, entirely new interface, with earnings tracking.</sub>
 
-The original courier app, rebuilt.
+<br /><br />
 
-Same APIs underneath, a completely new interface, and earnings tracking added. Because delivering packages wasn't complicated enough.
-
-<br />
-<br />
-
-<div align="center">
 <sub>Mostly functional. Medically assisted.</sub>
+
 </div>
