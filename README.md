@@ -3,11 +3,10 @@
 <h1>ctl</h1>
 
 <p>
-  <a href="https://ctlx.app">ctlx.app</a>
-  &nbsp;·&nbsp; Independent developer
+  <a href="https://ctlx.app">ctlx.app</a> · Independent developer
 </p>
 
-<p><i>Building things. Overthinking everything.</i></p>
+<p><i>Building software around the details that matter.</i></p>
 
 </div>
 
@@ -17,21 +16,16 @@
 
 <table>
 <tr>
-<td>
-<strong>01</strong>
-</td>
-<td>
-<strong>Lowkey</strong><br />
-<sub>Something worth keeping lowkey.</sub>
+<td width="100%">
+<h3>Lowkey</h3>
+<sub>Spotify, quieter.</sub><br />
+A lightweight, native desktop player built around user experience.
 </td>
 </tr>
 <tr>
 <td>
-<strong>02</strong>
-</td>
-<td>
-<strong>Zarobenqo</strong> <sub>Private</sub><br />
-<sub>Making money. Allegedly.</sub>
+<h3>Zarobenqo <sup>Private</sup></h3>
+The original courier app, rebuilt. Same APIs underneath, a new interface throughout, and earnings added.
 </td>
 </tr>
 </table>
@@ -39,6 +33,6 @@
 <br />
 
 <div align="center">
-<sub>Designed in my head. Shipped eventually.</sub>
+<sub>Works on my machine.</sub>
 </div>
 ```
