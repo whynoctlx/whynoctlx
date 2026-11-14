@@ -1,23 +1,32 @@
-# Hi, I'm ctl. 👋
+<div align="center">
 
-Developer. Perfectionist by accident.
+# ctl
 
-I build software, overthink details, and occasionally ship something.
+**Independent developer · [ctlx.app](https://ctlx.app)**
 
-## 🔭 What I'm working on
+*Building things. Overthinking everything.*
 
-| Project | What it is |
-|---------|------------|
-| **Lowkey** | A project I'm keeping lowkey. You'll hear about it when it's ready. |
-| **Zarobenqo** 🔒 *(private)* | Private project about making money. Details are classified, mostly because they don't exist yet. |
+</div>
 
-## 🛠️ Stack
+<br />
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### Projects
 
----
+<table>
+<tr>
+<td width="50%">
+<strong>Lowkey</strong><br />
+<sub>Something worth keeping lowkey.</sub>
+</td>
+<td width="50%">
+<strong>Zarobenqo</strong> <sup>Private</sup><br />
+<sub>Making money. Allegedly.</sub>
+</td>
+</tr>
+</table>
 
-<sub>Powered by caffeine, questionable decisions, and a medically supervised serotonin pipeline.</sub>
+<br />
+
+<div align="center">
+<sub>Works on my machine. My brain has different deployment requirements.</sub>
+</div>
