@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm ctl. 👋
 
-<!--
-**whynoctlx/whynoctlx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer. Perfectionist by accident.
 
-Here are some ideas to get you started:
+I build software, overthink details, and occasionally ship something.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm working on
+
+| Project | What it is |
+|---------|------------|
+| **Lowkey** | A project I'm keeping lowkey. You'll hear about it when it's ready. |
+| **Zarobenqo** 🔒 *(private)* | Private project about making money. Details are classified, mostly because they don't exist yet. |
+
+## 🛠️ Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+<sub>Powered by caffeine, questionable decisions, and a medically supervised serotonin pipeline.</sub>
