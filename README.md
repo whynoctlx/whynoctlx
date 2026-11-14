@@ -1,25 +1,31 @@
-**ctl**
 
-Independent developer · [ctlx.app](https://ctlx.app)
+*Independent developer*  
+[ctlx.app](https://ctlx.app)
 
-*Building software. Obsessing over details.*
+Building software with an unreasonable attention to detail.
 
-`citalopram` is a dependency, not a feature.
+> Held together by code, caffeine and citalopram.
 
-### Projects
+<br />
 
-**Lowkey** · [Spotify, quieter.](#)
+**01 — Lowkey**
+
+*Spotify, quieter.*
 
 A lightweight, native desktop player built around user experience.
 
-`Tauri` `Rust` `Svelte`
+`TAURI` / `RUST` / `SVELTE`
 
-**Zarobenqo** · *Private*
+<br />
 
-The original courier app, rebuilt. Same APIs underneath, a new interface throughout, and earnings added.
+**02 — Zarobenqo**
 
-`Next.js` `Turso` `Drizzle`
+*The original courier app, rebuilt.*
 
----
+Same APIs underneath. A completely new interface throughout, with earnings tracking added.
+
+`NEXT.JS` / `TURSO` / `DRIZZLE`
+
+<br />
 
 *Mostly functional. Medically assisted.*
