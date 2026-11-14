@@ -3,19 +3,17 @@
 
 # ctl
 
-**Independent developer**
-
-<a href="https://ctlx.app">ctlx.app</a>
-
-<i>Building things. Overthinking everything.</i>
+<sub>Independent developer · [ctlx.app](https://ctlx.app)</sub>
 
 <br />
 
-<sub>Running on citalopram. The uptime is still questionable.</sub>
+*Perfectionism is a feature. Stability is a work in progress.*
+
+<br />
+
+<sub>Held together by code and citalopram.</sub>
 
 </div>
-
-<br />
 
 ### Things I've built
 
