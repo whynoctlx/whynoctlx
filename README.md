@@ -1,40 +1,43 @@
 
 <div align="center">
-  <h3>ctl</h3>
-  <p>
-    Independent developer<br />
-    <a href="https://ctlx.app">ctlx.app</a>
-  </p>
-  <br />
-  <p><i>Building software. Obsessing over details.</i></p>
+
+# ctl
+
+**Independent developer**
+
+<a href="https://ctlx.app">ctlx.app</a>
+
+<i>Building things. Overthinking everything.</i>
+
+<br />
+
+<sub>Running on citalopram. The uptime is still questionable.</sub>
+
 </div>
 
 <br />
-<br />
 
-<p><sub>SELECTED PROJECTS</sub></p>
+### Things I've built
 
-<h3>Lowkey</h3>
-
-<p><sub>DESKTOP · MUSIC</sub></p>
+**Lowkey**  
+<sub>DESKTOP APP · MUSIC</sub>
 
 Spotify, quieter.
 
-A lightweight, native desktop player built around user experience.
+A lightweight, native desktop player built around user experience. Less noise, more music.
 
 <br />
 
-<h3>Zarobenqo</h3>
-
-<p><sub>PRIVATE · COURIER PLATFORM</sub></p>
+**Zarobenqo**  
+<sub>COURIER PLATFORM · PRIVATE</sub>
 
 The original courier app, rebuilt.
 
-Same APIs underneath, a new interface throughout, and earnings added.
+Same APIs underneath, a completely new interface, and earnings tracking added. Because delivering packages wasn't complicated enough.
 
 <br />
 <br />
 
 <div align="center">
-  <sub>© 2026 ctl</sub>
+<sub>Mostly functional. Medically assisted.</sub>
 </div>
