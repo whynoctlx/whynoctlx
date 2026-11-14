@@ -1,6 +1,21 @@
-*Independent developer · [ctlx.app](https://ctlx.app/)*
+<div align="center">
 
-Building software is easier than maintaining a functioning brain.
+<p>
+  <strong>Independent software developer</strong>
+  <br />
+  <a href="https://ctlx.app">ctlx.app</a>
+</p>
 
-`citalopram` is a runtime dependency.  
-Mental stability is still in beta.
+<br />
+
+<p>
+  Building software is easier than maintaining a functioning brain.
+</p>
+
+<p>
+  <code>citalopram</code> · A critical runtime dependency.
+</p>
+
+<sub>Mental stability: currently in beta.</sub>
+
+</div>
